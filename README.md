@@ -1,4 +1,4 @@
-# 🚗Smart-Park: Intelligent Parking Mnagement System🚗
+# 🚗Smart-Park: Intelligent Parking Management System🚗
 
 ## Introduction 
 The Parking Management System is a robust and user-friendly application designed to streamline the management of parking facilities. Built with Node.js and MySQL, this system caters to the needs of both customers and employees by providing an efficient platform for handling parking reservations, slot allocations, and payment transactions.
